@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <meta name="keywords" content="">
-  <link rel="canonical" href="http://example.org/404.html">
+  <link rel="canonical" href="/404.html">
 
   
   
@@ -19,8 +19,8 @@
   
   
 
-  <link rel="stylesheet" type="text/css" href="http://example.org//css/combined-min.css">
-  
+  <link rel="stylesheet" type="text/css" href="/css/combined-min.css">
+  <link rel="stylesheet" type="text/css" href="/tipuesearch/tipuesearch.css">
 
 </head>
 <body class="">
@@ -29,11 +29,15 @@
   <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="http://example.org/" class="site-title">Shubham Saxena</a>
+      <a href="" class="site-title">Shubham Saxena</a>
       <nav class="site-nav right">
-      <a href="http://example.org//about/">About</a>
-<a href="http://example.org//tags/">Tags</a>
-<a href="http://example.org//contact/">Contact</a>
+      <a href="/about/">About</a>
+<a href="/tags/">Tags</a>
+<a href="/contact/">Contact</a>
+<form class="navbar-search" action="/search/index.html"
+    onsubmit="return validateForm(this.elements['q'].value);">
+    <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input">
+
 </form>
 
       </nav>
@@ -46,7 +50,7 @@
   <div class="post p2 p-responsive wrap" role="main">
     <div class="measure">
         <div align="center">
-            <img src="http://example.org//images/404.jpg" />
+            <img src="/images/404.jpg" />
             <p>Error 404</p>
         </div>
     </div>
@@ -57,6 +61,8 @@
         <div class="measure mt1 center">
       <nav class="social-icons icons">
 <a class="fa fa-rss rss" href="/index.xml"></a>
+
+<a class="fa fa-twitter twitter" href="https://twitter.com/saxena_shubham7"></a>
 
 </nav>
 
@@ -74,6 +80,16 @@
 
     
     
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=XX-XXXXXXXX-X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'XX-XXXXXXXX-X');
+</script>
+
 
 
 </body>

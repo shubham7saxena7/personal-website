@@ -1,4 +1,20 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Shubham Saxena'
-theme = 'pixyll'
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseUrl = ""
+canonifyurls = true
+title = "Shubham Saxena"
+author = "Shubham Saxena"
+theme = "pixyll"
+disqusShortname = "shubham7saxena7"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  search_engine = true
+  google_analytics_id = "XX-XXXXXXXX-X"
+  twitter_username = "saxena_shubham7"
+  paginate = true

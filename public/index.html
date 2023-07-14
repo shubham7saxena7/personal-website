@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <meta name="keywords" content="">
-  <link rel="canonical" href="http://example.org/">
+  <link rel="canonical" href="/">
 
   
   
@@ -20,8 +20,8 @@
   
   
 
-  <link rel="stylesheet" type="text/css" href="http://example.org//css/combined-min.css">
-  
+  <link rel="stylesheet" type="text/css" href="/css/combined-min.css">
+  <link rel="stylesheet" type="text/css" href="/tipuesearch/tipuesearch.css">
 
 </head>
 <body class="">
@@ -30,11 +30,15 @@
     <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="http://example.org/" class="site-title">Shubham Saxena</a>
+      <a href="" class="site-title">Shubham Saxena</a>
       <nav class="site-nav right">
-      <a href="http://example.org//about/">About</a>
-<a href="http://example.org//tags/">Tags</a>
-<a href="http://example.org//contact/">Contact</a>
+      <a href="/about/">About</a>
+<a href="/tags/">Tags</a>
+<a href="/contact/">Contact</a>
+<form class="navbar-search" action="/search/index.html"
+    onsubmit="return validateForm(this.elements['q'].value);">
+    <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input">
+
 </form>
 
       </nav>
@@ -50,13 +54,13 @@
                 <div class="posts">
                     
                         
-                            
-                                <div class="post">
-  <a class="post-link" href="http://example.org/post/create-consume/">
-  <p class="post-meta left">Jan 1, 0001</p>
+                        
+                            <div class="post">
+  <a class="post-link" href="/post/create-consume/">
+  <p class="post-meta left">Jul 12, 2023</p>
   
   <div class="clearfix"></div>
-  <h3 class="h2 post-title"> </h3>
+  <h3 class="h2 post-title">Creating What I Consume </h3>
   <p class="post-summary">Creating What I Consume For a long time, I have been a passive consumer of entertainment, food, and whatnot. I would spend hours watching TV shows, scrolling through social media, and ordering takeout. I enjoyed the convenience and instant gratification of having everything at my fingertips, and I also rationalised it to myself by saying, &ldquo;This is the convenience money buys&rdquo;.
 Recently, I have started to feel a sense of emptiness and disconnection from my creativity and passions.</p>
   </a>
@@ -64,8 +68,25 @@ Recently, I have started to feel a sense of emptiness and disconnection from my 
   
 </div>
 
-                            
                         
+                </div>
+            </div>
+            <div class="paginatin_area">
+                        <div class="pagination clearfix mb1 mt4">
+  <div class="left">
+  
+  <span class="pagination-item disabled">Newer</span>
+  
+  </div>
+  <div class="right">
+  
+  <span class="pagination-item disabled">Older</span>
+  
+  </div>
+</div>
+
+                
+            </div>
                     
                 </div>
             </div>
@@ -77,6 +98,8 @@ Recently, I have started to feel a sense of emptiness and disconnection from my 
         <div class="measure mt1 center">
       <nav class="social-icons icons">
 <a class="fa fa-rss rss" href="/index.xml"></a>
+
+<a class="fa fa-twitter twitter" href="https://twitter.com/saxena_shubham7"></a>
 
 </nav>
 
@@ -94,6 +117,16 @@ Recently, I have started to feel a sense of emptiness and disconnection from my 
 
     
     
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=XX-XXXXXXXX-X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+gtag('config', 'XX-XXXXXXXX-X');
+</script>
+
 
 
 </body>
