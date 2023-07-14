@@ -2,9 +2,6 @@
 title: "Creating What I Consume"
 date: 2023-07-12T09:03:20-08:00
 ---
-
-## Creating What I Consume
-
 For a long time, I have been a passive consumer of entertainment, food, and whatnot. I would spend hours watching TV shows, scrolling through social media, and ordering takeout. I enjoyed the convenience and instant gratification of having everything at my fingertips, and I also rationalised it to myself by saying, "This is the convenience money buys".
 
 Recently, I have started to feel a sense of emptiness and disconnection from my creativity and passions. I realized that I was living my life on autopilot, without really engaging with the world around me. That's when I decided to take a step back and start exploring the concept of creating what I consume.

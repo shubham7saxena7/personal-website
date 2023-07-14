@@ -14,7 +14,5 @@ disqusShortname = "shubham7saxena7"
   tag = "tags"
 
 [params]
-  search_engine = true
   google_analytics_id = "XX-XXXXXXXX-X"
   twitter_username = "saxena_shubham7"
-  paginate = true
