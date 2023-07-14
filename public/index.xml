@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Shubham Saxena on Shubham Saxena </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://example.org/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/post/create-consume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://example.org/post/create-consume/</guid>
+      <description>First Post </description>
+    </item>
+    
+  </channel>
+</rss>
+
