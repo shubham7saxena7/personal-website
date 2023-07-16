@@ -1,6 +1,8 @@
 ---
 title: "Creating What I Consume"
 date: 2023-07-12T09:03:20-08:00
+summary: "Thoughts on why I shifted right towards creation rather than mindless consumption in this abundant world"
+tags: ["lifestyle", "philosophy"]
 ---
 For a long time, I have been a passive consumer of entertainment, food, and whatnot. I would spend hours watching TV shows, scrolling through social media, and ordering takeout. I enjoyed the convenience and instant gratification of having everything at my fingertips, and I also rationalised it to myself by saying, "This is the convenience money buys".
 

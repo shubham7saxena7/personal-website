@@ -1,6 +1,8 @@
 ---
 title: "The journey of quitting smoking"
 date: 2023-07-13T09:03:20-08:00
+summary: "I am well positioned to quit smoking. For good!"
+tags: ["health", "lifestyle"]
 ---
 
 I've been here, at this exact spot, multiple times for years. years! I've been smoking on and off - mostly on for the last six years. It has cost me a great deal of money, health and above all mental stress. I live in constant guilt about smoking. Each puff I take in is a torture which screams, "Why are you doing this to yourself" but I find myself helpless. My body and mind are not in tune and that's exactly the reason for smoking-induced anxiety. It is supposed to make you feel lighter. Nicotine is a powerful drug known to relax humans and it fails to do that job for me. It leaves me feeling choking - physically and mentally.
