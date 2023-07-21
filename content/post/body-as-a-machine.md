@@ -1,6 +1,6 @@
 ---
-title: "Let the desire cook"
-date: 2023-07-18T09:03:20-08:00
+title: "Treating the body as a machine"
+date: 2023-07-20T09:03:20-08:00
 summary: "Treating the body as a machine"
 tags: ["health", "lifestyle"]
 ---
