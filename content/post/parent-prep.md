@@ -1,7 +1,7 @@
 ---
 title: "The preparation of being a parent"
 date: 2023-07-16T09:03:20-08:00
-summary: "I want to be a parent to a kid in some years. Documenting my thoughts on how I want to prepare for it"
+summary: "complexity of human desires and the contemplation of becoming a parent, questioning societal norms and personal fulfillment"
 tags: ["health", "lifestyle"]
 ---
 
