@@ -7,7 +7,7 @@ canonifyurls = true
 title = "Shubham Saxena"
 author = "Shubham Saxena"
 theme = "pixyll"
-disqusShortname = "shubham7saxena7"
+# disqusShortname = "shubham7saxena7"
 
 [indexes]
   category = "categories"
