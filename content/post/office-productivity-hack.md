@@ -1,6 +1,6 @@
 ---
 title: "Turn that laptop into desktop"
-date: 2023-07-22T09:03:20-08:00
+date: 2023-07-21T09:03:20-08:00
 summary: "How just sticking to a desk and a dedicated table allowed me to be more productive and focused"
 tags: ["productivity", "lifestyle"]
 ---
