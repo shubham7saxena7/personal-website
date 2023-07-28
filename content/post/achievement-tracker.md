@@ -6,7 +6,7 @@ tags: ["thoughts"]
 ---
 
 
-## 2023
+### 2023
 
 * Bought my first car
 * Became a crorepati in cash worth
@@ -18,25 +18,35 @@ tags: ["thoughts"]
 * Setup my personal office
 * Bought my first collection of high quality premium sneakers
 * Started playing piano
+* completely quit smoking weed. Don't have the urge for it - heck! Idespise it.
 
 
-## 2022
+### 2022
 
 * Got married to my favourite person
 * Travelled to Europe for the first time
 * Shifted to Gurgaon
 
 
-## 2021
+### 2021
 
 * Got really jacked up for the first time. consistently hit the gym
 * Watched a cricket match live for the first time - although I was completely drunk
 
 
-## 2020
+### 2020
 
 * Survived CoVid
 * Ran a 10K for the first time
+
+
+### 2017
+
+* got my first job - a well playing 80K INR monthly
+
+### 2013
+
+* got into an IIT
 
 
 
