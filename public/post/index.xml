@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Shubham Saxena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2023 19:03:20 -0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 19:03:20 -0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achievement Tracker</title>
+      <link>/post/achievement-tracker/</link>
+      <pubDate>Thu, 27 Jul 2023 19:03:20 -0800</pubDate>
+      
+      <guid>/post/achievement-tracker/</guid>
+      <description>A page to share my personal and professioanl wins</description>
+    </item>
+    
     <item>
       <title>Stop being harsh on yourself</title>
       <link>/post/being-compassionate-with-your-past.md/</link>
