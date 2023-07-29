@@ -6,7 +6,16 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 27 Jul 2023 19:03:20 -0800</updated>
+    <updated>Fri, 28 Jul 2023 19:03:20 -0800</updated>
+    
+    <item>
+      <title>Expectations</title>
+      <link>/post/expectations/</link>
+      <pubDate>Fri, 28 Jul 2023 19:03:20 -0800</pubDate>
+      
+      <guid>/post/expectations/</guid>
+      <description>expectations sometimes just become duties you gotta do</description>
+    </item>
     
     <item>
       <title>Achievement Tracker</title>
@@ -132,17 +141,6 @@
       
       <guid>/post/eating-in-expensive/</guid>
       <description>A quick swiggy expenditure analysis to discover personal eating habits</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Sat, 08 Nov 2014 16:42:18 &#43;0400</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hey there! I&amp;rsquo;m Shubham, a software engineer from Gurgaon, India. Solving problems is my passion, and I love coding. But life is more than just work for me.
-When I&amp;rsquo;m not coding, I&amp;rsquo;m all about sports. Football, basketball, and badminton get my adrenaline pumping. I am also an avid runner, constantly pushing myself to new limits.
-Beyond the tech world, I maintain my own gym, garden, and office space. Reading is my escape, and occasionally, I write too.</description>
     </item>
     
   </channel>
