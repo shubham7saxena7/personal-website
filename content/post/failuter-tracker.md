@@ -5,7 +5,7 @@ summary: "An incomplete list of my personal and professioanl failures"
 tags: ["thoughts"]
 ---
 
-These are not absolute failures - just a bunch of missed targets. I do not believe that you ever fail in absolute terms.
+These are not absolute failures - just a bunch of missed targets. I do not believe that you ever fail in absolute terms!
 
 ### 2023
 * failed to quit smoking
